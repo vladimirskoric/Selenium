@@ -1,0 +1,9 @@
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\TestHelper.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\TestHelper.pdb
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\WebDriver.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\WebDriver.Support.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\WebDriver.xml
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\bin\Debug\WebDriver.Support.xml
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\obj\Debug\TestHelper.csprojResolveAssemblyReference.cache
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\obj\Debug\TestHelper.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\TestHelper\obj\Debug\TestHelper.pdb

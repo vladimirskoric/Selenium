@@ -1,0 +1,16 @@
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.xml
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\TestHelper.dll
+C:\_TFS\SeleniumAutomation\SeleniumTest\SeleniumTest\bin\Debug\TestHelper.pdb
